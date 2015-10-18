@@ -13,7 +13,7 @@ Spaces don't matter. If addreses have extra commas, the whole will have to be es
 
 The returned latitude and longitude will be appended to the address, along with separating commas, and the entire string will become a new line in the output file.
 
-Note: This script is set up to geocode with GoogleV3, which has a daily limit of 2,500 from one IP address, and a speed limit of 10 requests per second. The geopy library has other options. Find out more here: [https://github.com/geopy/geopy]https://github.com/geopy/geopy
+Note: This script is set up to geocode with GoogleV3, which has a daily limit of 2,500 from one IP address, and a speed limit of 10 requests per second. The geopy library has other options. Find out more here: [https://github.com/geopy/geopy](https://github.com/geopy/geopy)
 
 ###Quick Start:
 
