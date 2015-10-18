@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Created by Rhiannon Coppin, Oct. 17, 2015
 from geopy.geocoders import GoogleV3
 import re
 import time
